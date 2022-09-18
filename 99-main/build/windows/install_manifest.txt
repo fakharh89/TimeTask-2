@@ -1,9 +1,0 @@
-C:/Users/fakha/Desktop/99-main/99-main/build/windows/runner/Debug/data/icudtl.dat
-C:/Users/fakha/Desktop/99-main/99-main/build/windows/runner/Debug/flutter_windows.dll
-C:/Users/fakha/Desktop/99-main/99-main/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
-C:/Users/fakha/Desktop/99-main/99-main/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
-C:/Users/fakha/Desktop/99-main/99-main/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
-C:/Users/fakha/Desktop/99-main/99-main/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
-C:/Users/fakha/Desktop/99-main/99-main/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
-C:/Users/fakha/Desktop/99-main/99-main/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
-C:/Users/fakha/Desktop/99-main/99-main/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
